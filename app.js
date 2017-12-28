@@ -2,8 +2,8 @@ const Discord = require("discord.js");
 const dictionary = require("dictionary-en-us");
 const Nspell  = require("nspell");
 
-const token = "";
-const guildID = "";
+const token = "Mzk2MDMxNjE0MzE4MjgwNzA0.DSbiYA.nQwluaP9J0FP832eRSN3H2j5tC8";
+const guildID = "151677756814524416";
 const bot = new Discord.Client();
 
 dictionary((err, dict) => {
