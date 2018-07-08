@@ -1,10 +1,10 @@
 {
-        "OwnerID":"YOURID",
-        "Token":"YOURTOKEN",
+        "OwnerID":"193709246150475777",
+        "Token":"Mzk2MjI1NjEzMDU4Mjc3Mzc2.DiOeew.Fq5lH34RD42ye5Io3iOp8B_gq5A",
         "startup_plugins":[
             "test1",
             "test2",
             "test3"
             ],
-        "Prefix":["--"]
+        "Prefix":["-"]
 }
